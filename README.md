@@ -69,3 +69,4 @@ Completed via [Forage – Deloitte Australia Data Analytics Job Simulation](http
 ## Contact
 
 Feel free to connect with me on LinkedIn or open an issue if you have any questions about the project!
+[LinkedIn](https://www.linkedin.com/in/mdabdullah-amin)
